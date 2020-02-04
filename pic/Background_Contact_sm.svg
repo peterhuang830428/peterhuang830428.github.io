@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1920 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Artboard1" transform="matrix(1,0,0,0.33077,0,0)">
+<svg width="100%" height="100%" viewBox="0 0 1920 498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1,0,0,0.4606,0,0)">
         <rect x="0" y="0" width="1920" height="1080" style="fill:none;"/>
-        <g transform="matrix(0.9692,-0.584068,0.0599124,3.35391,-1357.76,-1514.34)">
+        <g transform="matrix(0.9692,-0.419437,0.0599124,2.40854,-1357.76,-1090.06)">
             <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:65.473px;fill:white;fill-opacity:0.5;">Back End Engineer</text>
         </g>
-        <g transform="matrix(0.552852,0.0593048,-0.110277,1.85035,439.35,-1266)">
+        <g transform="matrix(0.552852,0.0425885,-0.110277,1.32879,439.35,-911.72)">
             <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">Software Engineer</text>
         </g>
-        <g transform="matrix(0.552648,0.0746871,-0.115906,1.8472,-662.783,-1003.02)">
+        <g transform="matrix(0.552648,0.053635,-0.115906,1.32653,-662.783,-722.872)">
             <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">Front End Engineer</text>
         </g>
-        <g transform="matrix(0.66586,-0.526564,0.087278,2.32425,332.602,-283.175)">
+        <g transform="matrix(0.66586,-0.378141,0.087278,1.66911,332.602,-205.927)">
             <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:125.35px;fill:white;fill-opacity:0.5;">Data Engineer</text>
         </g>
-        <g transform="matrix(0.871966,-0.525072,0.104719,3.13271,-543.606,1043)">
+        <g transform="matrix(0.871966,-0.37707,0.104719,2.24969,-543.606,746.44)">
             <text x="1562.25px" y="232.265px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:96px;fill:white;fill-opacity:0.5;">Big Data</text>
         </g>
     </g>

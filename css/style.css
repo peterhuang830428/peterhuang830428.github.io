@@ -475,6 +475,12 @@ body {
   background-attachment: fixed;
   background-position: center bottom;
 }
+@media (max-width: 991.98px) {
+  #contact-me .background-word {
+    background-attachment: scroll;
+    background-image: url("../pic/Background_Contact_sm.svg");
+  }
+}
 
 #contact-me .title-trans {
   font-size: 15rem;
@@ -552,6 +558,12 @@ body {
   color: white;
   width: 35%;
   height: 130%;
+}
+@media (max-width: 768px) {
+  #contact-me .btn {
+    width: 45%;
+    font-size: 0.8rem;
+  }
 }
 
 /* contact-me-end */
