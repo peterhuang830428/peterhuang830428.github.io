@@ -165,6 +165,7 @@ body {
   #hero .right-photo {
     background-size: 100%;
     background-position: center top;
+    background-attachment: scroll;
   }
 }
 @media (max-width: 768px) {
