@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="1920" height="1080" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect id="Artboard11" serif:id="Artboard1" x="0" y="0" width="1920" height="1080"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g transform="matrix(0.9692,-0.193192,0.0599124,1.10937,-1357.76,254.514)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:65.473px;fill:white;fill-opacity:0.5;">Back End Engineer</text>
+        </g>
+        <g transform="matrix(0.549897,0.0603684,-0.155151,0.602232,467.124,244.911)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">Software Engineer</text>
+        </g>
+        <g transform="matrix(0.552648,0.0247043,-0.115906,0.611,-662.783,423.641)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">Front End Engineer</text>
+        </g>
+        <g transform="matrix(0.66586,-0.174172,0.087278,0.768793,332.602,661.746)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:125.35px;fill:white;fill-opacity:0.5;">Data Engineer</text>
+        </g>
+        <g transform="matrix(0.871966,-0.173678,0.104719,1.03621,-543.606,1100.41)">
+            <text x="1562.25px" y="232.265px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:96px;fill:white;fill-opacity:0.5;">Big Data</text>
+        </g>
+    </g>
+</svg>

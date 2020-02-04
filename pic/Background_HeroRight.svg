@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 1713" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1,0,0,1.58605,0,0)">
+        <rect x="0" y="0" width="1920" height="1080" style="fill:none;"/>
+        <g transform="matrix(0.944097,0.159497,-0.153521,0.69985,-233.793,43.5293)">
+            <text x="364.426px" y="363.871px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">&lt;HTML&gt;</text>
+        </g>
+        <g transform="matrix(0.808747,-0.133094,0.349873,0.644586,-706.427,3.65837)">
+            <text x="1043.06px" y="628.933px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">#CSS</text>
+        </g>
+        <g transform="matrix(0.859466,-0.307584,0.405337,0.652192,-1393.25,582.941)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">JS</text>
+        </g>
+        <g transform="matrix(0.481101,-0.172176,0.226895,0.365076,-624.438,917.594)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">BootStrap</text>
+        </g>
+        <g transform="matrix(0.528549,0.102959,-0.266269,0.354347,-403.953,326.134)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">jQuery</text>
+        </g>
+        <g transform="matrix(0.675369,0.245847,-0.541934,0.434492,883.05,-9.69041)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">SQL</text>
+        </g>
+        <g transform="matrix(0.675369,-0.245847,0.325833,0.513157,133.557,884.98)">
+            <text x="1425.14px" y="868.143px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">T<tspan x="1507.76px 1587.85px " y="868.143px 868.143px ">ab</tspan>leau</text>
+        </g>
+        <g transform="matrix(0.894014,0.151036,-0.415837,0.579788,855.423,-439.344)">
+            <text x="723.75px" y="825.761px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">Python</text>
+        </g>
+        <g transform="matrix(0.843137,-0.177894,0.234431,0.639802,-11.4638,502.056)">
+            <text x="1562.25px" y="232.265px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:96px;fill:white;fill-opacity:0.5;">Big Data</text>
+        </g>
+        <g transform="matrix(0.858799,0.145087,-0.364634,0.615093,260.564,262.642)">
+            <text x="1562.25px" y="232.265px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:96px;fill:white;fill-opacity:0.5;">JA<tspan x="1677.84px " y="232.265px ">V</tspan>A</text>
+        </g>
+        <g transform="matrix(1.35652,0,0,1.02938,1215.91,-225.369)">
+            <text x="263.041px" y="725.116px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">%</text>
+        </g>
+        <g transform="matrix(0.604771,0,0,0.458921,-687.111,395.219)">
+            <text x="1281.48px" y="323.816px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">@</text>
+        </g>
+        <g transform="matrix(1.24243,0.178046,-0.234631,0.942802,-373.065,158.663)">
+            <text x="1781.38px" y="562.322px" style="font-family:'Arial-BoldItalicMT', 'Arial', sans-serif;font-weight:700;font-style:italic;font-size:144px;fill:white;fill-opacity:0.5;">!</text>
+        </g>
+    </g>
+</svg>
