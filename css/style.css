@@ -350,10 +350,14 @@ body {
   width: 6rem;
   height: 6rem;
   opacity: 0.5;
+  filter: sepia(1);
+  filter: grayscale(0.5);
 }
 
 #skill-set .image:hover {
   opacity: 1;
+  filter: sepia(0);
+  filter: grayscale(0);
 }
 /* skill-set-end */
 
