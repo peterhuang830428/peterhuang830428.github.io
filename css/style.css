@@ -25,6 +25,10 @@ body {
 	background-color: rgba(0, 0, 0, 0.1);
 }
 
+.navbar-afterclick {
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
 .navbar .navbar-brand {
 	width: 3.5rem;
 	height: 3.5rem;
